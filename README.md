@@ -1,2 +1,2 @@
 # dztools
-dztools
+dztools is a collection of scripts
